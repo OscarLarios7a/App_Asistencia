@@ -1,0 +1,4 @@
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\AppAsistencia\bin\Debug\AppAsistencia.exe.config
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\AppAsistencia\obj\Debug\AppAsistencia.csprojResolveAssemblyReference.cache
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\AppAsistencia\obj\Debug\AppAsistencia.Properties.Resources.resources
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\AppAsistencia\obj\Debug\AppAsistencia.csproj.GenerateResource.Cache
