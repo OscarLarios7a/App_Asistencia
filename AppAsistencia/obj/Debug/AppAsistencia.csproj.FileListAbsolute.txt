@@ -2,3 +2,12 @@ D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\
 D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\AppAsistencia\obj\Debug\AppAsistencia.csprojResolveAssemblyReference.cache
 D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\AppAsistencia\obj\Debug\AppAsistencia.Properties.Resources.resources
 D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\AppAsistencia\obj\Debug\AppAsistencia.csproj.GenerateResource.Cache
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\bin\Debug\AppAsistencia.exe.config
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\bin\Debug\AppAsistencia.exe
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\bin\Debug\AppAsistencia.pdb
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\obj\Debug\AppAsistencia.csprojResolveAssemblyReference.cache
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\obj\Debug\AppAsistencia.Presentacion.MenuPrincipal.resources
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\obj\Debug\AppAsistencia.Properties.Resources.resources
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\obj\Debug\AppAsistencia.csproj.GenerateResource.Cache
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\obj\Debug\AppAsistencia.exe
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\obj\Debug\AppAsistencia.pdb

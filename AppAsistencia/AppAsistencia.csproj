@@ -53,6 +53,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Presentacion\MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -61,6 +64,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +82,36 @@
   <ItemGroup>
     <Folder Include="Datos\" />
     <Folder Include="Logica\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\despertador_512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\despertador.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4964560.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\base-de-datos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\base-de-datos-de-objetos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\despertador1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\despertador_5121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\equipo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puesta-en-marcha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
