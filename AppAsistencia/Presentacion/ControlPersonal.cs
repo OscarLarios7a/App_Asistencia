@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
 using System.Drawing;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace AppAsistencia.Presentacion
 {
-    public partial class MenuPrincipal : Form
+    public partial class ControlPersonal : UserControl
     {
-        public MenuPrincipal()
+        public ControlPersonal()
         {
             InitializeComponent();
-        }
-
-        private void MenuPrincipal_Load(object sender, EventArgs e)
-        {
-            PnlBienvenida.Dock = DockStyle.Fill;
         }
     }
 }
