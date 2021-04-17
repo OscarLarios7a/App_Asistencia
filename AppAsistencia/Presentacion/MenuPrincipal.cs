@@ -21,5 +21,13 @@ namespace AppAsistencia.Presentacion
         {
             PnlBienvenida.Dock = DockStyle.Fill;
         }
+
+        private void btnPersonal_Click(object sender, EventArgs e)
+        {
+            Personal control = new Personal();
+            panel2.Controls.Clear();
+            control.Dock = DockStyle.Fill;
+            panel2.Controls.Add(control);
+        }
     }
 }

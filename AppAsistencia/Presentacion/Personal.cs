@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace AppAsistencia.Presentacion
 {
-    public partial class ControlPersonal : UserControl
+    public partial class Personal : UserControl
     {
-        public ControlPersonal()
+        public Personal()
         {
             InitializeComponent();
+        }
+
+        private void panel12_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

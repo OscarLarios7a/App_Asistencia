@@ -11,3 +11,4 @@ D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\
 D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\obj\Debug\AppAsistencia.csproj.GenerateResource.Cache
 D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\obj\Debug\AppAsistencia.exe
 D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\obj\Debug\AppAsistencia.pdb
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\App_Asistencia\AppAsistencia\obj\Debug\AppAsistencia.Presentacion.Personal.resources
