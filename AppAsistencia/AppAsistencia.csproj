@@ -45,6 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Datos\ConexionBD.cs" />
+    <Compile Include="Datos\dPersonal.cs" />
+    <Compile Include="Logica\LPersonal.cs" />
     <Compile Include="Presentacion\Personal.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -88,10 +91,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Datos\" />
-    <Folder Include="Logica\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="Resources\despertador_512.png" />
   </ItemGroup>
